@@ -1,7 +1,8 @@
 public class InstrukcjaSwitch {
     public static void main(String[] args) {
 
-        int number = -1;
+
+        int number = 3;
         switch (number) {
             case 1:
                 System.out.println("Jeden");
